@@ -1,84 +1,8 @@
-= SASIL potential work
+= Standardization Association for Sinitic Languages and Han Characters (SASIL)
 
-== Rationale
+This is a temporary repository, and all content is in flux.
 
-Technical committees are divided by function, not dialect or language.
-We may have a separate dialect/language committee.
-
-== Technical Management Board
-
-* Management of technical committees
-
-
-== Technical Committee: Transcription, transliteration and Romanization systems
-
-* Standardization of Romanization of Chinese names
-* Romanization systems for dialects (Jyutping, etc.)
-* Transcription of dialects (e.g. Cantonese transcription in Han characters)
-
-
-== Technical Committee: Writing systems
-
-* Standardization of punctuation
-* Segmentation of words and word writing conventions
-* Pedagogical grammar standardization
-
-
-== Technical Committee: Characters and words
-
-* Character sets (e.g. HKCLS 和諧體)
-* Dialectal characters (方言字)
-* Variant forms of characters (異體字)
-* Variant forms of words (異體詞)
-* Strokes, components and shapes, order
-* Dictionaries, thesauri, and corpuses
-
-
-== Technical Committee: Pronunciation
-
-* Readings of characters
-* Readings of words
-
-
-== Technical Committee: Terminology
-
-* Standardization of terminology in all fields
-* Every field has a Workgroup, e.g. IT terminology workgroup, medical terminology workgroup.
-* Online multi-lingual terminology database (concepts) (e.g. https://www.geolexica.com)
-
-
-== Technical Committee: Technology
-
-* Human computer interfaces
-** Intelligent input method (white spaces between words)
-
-* Computer representation of Sinitic transcription/transliteration systems
-* Ontologies
-
-
-== Technical Committee: Education
-
-* Language proficiency tests
-* Styles of academic formats in Chinese (e.g. MLA and APA in English)
-* Citation formats
-
-* Templates of various business and governmental communication (letters, etc.)
-** Letters
-** Notices/circulars
-
-* Standard vocabulary and grammar for education levels
-* "`Simple Chinese`" (incl. for addressing a Cantonese audience)
-
-
-== Technical Committee: Cultural
-
-* Surveillance of character sets, word sets, language patterns in various Chinese communities
-* Translation of seminal documents:
-** the Girona Manifesto (https://pen-international.org/who-we-are/manifestos/the-girona-manifesto-on-linguistic-rights/read-the-girona-manifesto)
-** the Universal Declaration of Linguistic Rights (https://culturalrights.net/descargas/drets_culturals389.pdf)
-
-
-== Technical Committee: Legal
-
-* Examination of 中華人民共和國國家通用語言文字法 in light of practices in other countries
+* link:potential-work.adoc[Potential work]
+* link:external-parties.adoc[External parties to engage]
+* link:activities.adoc[Potential activities]
 
