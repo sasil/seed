@@ -1,5 +1,44 @@
 = SASIL potential external parties
 
+== ISO
+
+____
+1.17.2.2 At the working group level (Category C liaisons)
+
+The category of liaisons at the working group level is:
+
+— Category C: Organizations that make a technical contribution to and
+participate actively in the work of a working group. This can include
+manufacturer associations, commercial associations, industrial consortia, user
+groups and professional and scientific societies. Liaison organizations shall
+be multinational (in their objectives and standards development activities)
+with individual, company or country membership and may be permanent or
+transient in nature.
+____
+
+
+____
+1.17.3.2 At the working group level (Category C liaisons)
+
+When an organization applies for a liaison with a working group, the office of
+the CEO will check with the member body in the country in which the
+organization is located and will ensure that the organization meets the
+following eligibility criteria:
+
+— it is not-for-profit;
+
+— through its activities and membership demonstrates that it has the competence
+and expertise to contribute to the development of International Standards or
+the authority to promote their implementation; and
+
+— has a process for stakeholder engagement and consensus decision-making to
+develop the input it provides (in ISO, see Guidance for ISO liaison
+organizations — Engaging stakeholders and building consensus
+http://www.iso.org/iso/guidance_liaison-organizations.pdf).
+____
+
+
+
 == SIL
 
 https://www.sil.org/international-relations
@@ -142,3 +181,16 @@ of language educators and their students. From the development of
 Proficiency Guidelines, to its leadership role in the creation of
 national standards, ACTFL focuses on issues that are critical to
 the growth of both the profession and the individual teacher.
+
+////
+國語推行委員會
+
+https://en.wikipedia.org/wiki/National_Languages_Committee
+
+The National Languages Committee was established in 1928 by the Ministry of Education of the Republic of China with the purpose of standardizing and popularizing the usage of Standard Chinese (also called Mandarin) in the Republic of China
+
+Since the Taiwanization movement took hold in government, the Committee also handles:
+* Researching mainland China Mandarin
+* Researching the Formosan languages
+* Researching other varieties of Chinese or languages like Hakka and Taiwanese Hokkien
+////
